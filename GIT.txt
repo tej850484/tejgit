@@ -1,4 +1,4 @@
-Version Controlling
+ Version Controlling
 =======================
 This is the process of maintianing multiple versions of the code
 All the team members uplaod their code(check in) into the remote
@@ -32,6 +32,8 @@ form where it is uploaded into a remote server where version cotrolling
 happens for the entire team
 
 ====================================================================
+Git:-
+------
 Setting up git on Windows
 -------------------------------
 1 Download git from
